@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (2025)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Engineering**, *Bar-Ilan University*, 2022 – Present  
+  * Research Area: Differential Privacy, High-Dimensional Statistics, and Machine Learning Theory  
+  * Advisor: Prof. Or Sheffet  
+  * Expected Completion: Summer 2026  
+
+* **M.Sc. in Computer Engineering**, *Bar-Ilan University*, 2020 – 2022  
+  * Graduated with honors  
+  * Thesis: *Design and Analysis of Randomized Algorithms under Differential Privacy*  
+
+* **B.Sc. in Computer Engineering**, *Bar-Ilan University*, 2015 – 2019  
+  * Graduated with honors, Cyber Security track  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Head of Department**, J6 & Cyber Defence Directorate, IDF — *Rishon LeZion, Israel*  
+  * *Aug 2023 – Present*  
+  * Leading three R&D teams: two in Full-Stack & DevOps and one in RF Engineering.  
+  * Oversee algorithmic research, system architecture, and large-scale communication solutions.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **R&D Team Leader**, J6 & Cyber Defence Directorate, IDF — *Rishon LeZion, Israel*  
+  * *Oct 2019 – Aug 2023*  
+  * Led development of ML-based and full-stack systems.  
+  * Focus areas: DevOps automation, distributed systems, AI pipelines, and advanced IP communication.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Assistant Lecturer**, Faculty of Engineering, Bar-Ilan University — *Ramat Gan, Israel*  
+  * *Oct 2018 – Oct 2019; Oct 2021 – Present*  
+  * Courses: Computer Networks and Internet, Software Engineering, Operating Systems.  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Algorithms Design & Analysis**
+* **Differential Privacy & Statistical Learning**
+* **Full-Stack Development & DevOps**
+  * Backend (Flask, FastAPI)
+  * Frontend (React, Angular)
+  * CI/CD, Docker, Kubernetes
+* **Programming Languages:** Python, Java, C++
+* **Networking & Operating Systems**
+* **Communication & Leadership**
 
 Publications
 ======
@@ -47,11 +57,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
