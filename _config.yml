@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Bar Mahpud"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Computer Engineering candidate, expertise in Differential Privacy"
-  location         : "Ramat-Gan, Israel"
+  bio              : "PhD candidate in Computer Engineering at Bar-Ilan University specializing in Differential Privacy and Machine Learning, and Head of Department at the IDF's J6 & Cyber Defence Directorate."
+  location         : "Petah-Tikva, Israel"
   employer         : "Bar-Ilan University"
   uri              : # URL
   email            : "mahpudb@biu.ac.il" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Bar Mahpud"
+  linkedin         : "bar-mahpud-76a311221"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
