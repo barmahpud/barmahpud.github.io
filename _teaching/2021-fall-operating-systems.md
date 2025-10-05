@@ -3,8 +3,8 @@ title: "Operating Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-operating-systems
-venue: "Bar-Ilan University, Faculty of Engineering"
-date: "2018"
+venue: "Bar-Ilan University, Faculty of Engineering, Fall 2018"
+date: 2018-10-01
 location: "Ramat Gan, Israel"
 ---
 

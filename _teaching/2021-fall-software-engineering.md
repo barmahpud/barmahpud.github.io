@@ -3,7 +3,7 @@ title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-software-engineering
-venue: "Bar-Ilan University, Faculty of Engineering"
+venue: "Bar-Ilan University, Faculty of Engineering, Fall 2018"
 date: 2018-10-01
 location: "Ramat Gan, Israel"
 ---

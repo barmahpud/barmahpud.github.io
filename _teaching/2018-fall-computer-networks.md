@@ -3,8 +3,8 @@ title: "Computer Networks and Internet"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-computer-networks
-venue: "Bar-Ilan University, Faculty of Engineering"
-date: "2021-2025"
+venue: "Bar-Ilan University, Faculty of Engineering, Fall 2021-2025"
+date: 2021-10-01
 location: "Ramat Gan, Israel"
 ---
 
