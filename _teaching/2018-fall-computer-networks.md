@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-computer-networks
 venue: "Bar-Ilan University, Faculty of Engineering"
-date: 2018-10-01
+date: "2021-2025"
 location: "Ramat Gan, Israel"
 ---
 

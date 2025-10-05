@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-operating-systems
 venue: "Bar-Ilan University, Faculty of Engineering"
-date: 2021-10-01
+date: "2018"
 location: "Ramat Gan, Israel"
 ---
 
