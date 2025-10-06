@@ -3,9 +3,9 @@ title: "Differentially Private Learning of Exponential Distributions: Adaptive A
 collection: publications
 category: conferences
 permalink: /publication/2025-11-01-dp-exponential-learning
-excerpt: "Adaptive DP estimators for exponential families with sharp upper and lower bounds; robust to distributional shifts and privacy budgets."
+excerpt: "We develop two complementary pure-DP methods for learning Exponential Distributions—a clipped-noisy MLE and a quantile estimator—combine them adaptively to attain near-optimal sample complexity; extend via a logarithmic reduction to Pareto; prove nearly matching lower bounds (packing & group privacy); and show that approximate-DP removes the need for external bounds."
 # date: 2025-11-01
-venue: "AISTATS 2026 (under review)"
+venue: "(under review)"
 # slidesurl: '/files/mahpud_sheffet_dp_exponential_slides.pdf'
 paperurl: '/files/mahpud_sheffet_dp_exponential_preprint.pdf'
 bibtexurl: '/files/mahpud_sheffet_dp_exponential.bib'

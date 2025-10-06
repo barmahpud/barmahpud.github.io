@@ -3,7 +3,7 @@ title: "A Differentially Private Linear-Time fPTAS for the Minimum Enclosing Bal
 collection: publications
 category: conferences
 permalink: /publication/2022-12-01-dp-fptas-meb
-excerpt: "We design the first differentially private linear-time fPTAS for Minimum Enclosing Ball, matching non-private efficiency while providing formal privacy guarantees."
+excerpt: "We present the first differentially private FPTAS for the Minimum Enclosing Ball with near-linear runtime, near-optimal radius, and few uncovered points; we also introduce a local-privacy version that improves prior results and show strong empirical performance."
 # date: 2022-12-01
 venue: "NeurIPS 2022"
 slidesurl: '/files/mahpud_sheffet_neurips2022_slides.pdf'

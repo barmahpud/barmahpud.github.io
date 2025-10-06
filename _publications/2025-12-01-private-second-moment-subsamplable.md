@@ -3,7 +3,7 @@ title: "A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Inp
 collection: publications
 category: conferences
 permalink: /publication/2025-12-01-private-second-moment-subsamplable
-excerpt: "General-purpose algorithms for privately approximating second-moment matrices under subsamplability assumptions, with tight bounds and practical accuracy."
+excerpt: "We present a zCDP-compliant recursive algorithm for differentially private second-moment estimation that exploits subsamplability assumptions to achieve practical spectral accuracy on worst-case data and remain robust to outliers."
 # date: 2025-12-01
 venue: "NeurIPS 2025"
 slidesurl: '/files/mahpud_sheffet_neurips2025_slides.pdf'
