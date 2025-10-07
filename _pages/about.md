@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Computer Engineering at Bar-Ilan University, advised by Or Sheffet, where my research focuses on Differential Privacy, high-dimensional statistics, and the design of efficient and private algorithms. My work bridges rigorous mathematical theory with practical privacy-preserving data analysis and has been presented at top-tier conferences including NeurIPS 2022, NeurIPS 2025, and COPA 2025.
+I am a PhD Candidate in Computer Engineering at Bar-Ilan University, advised by Dr. Or Sheffet, where my research focuses on Differential Privacy, high-dimensional statistics, and the design of efficient and private algorithms. My work bridges rigorous mathematical theory with practical privacy-preserving data analysis and has been presented at top-tier conferences including NeurIPS 2022, NeurIPS 2025, and COPA 2025.
 
 Alongside my academic research, I serve as Head of Department in the J6 & Cyber Defence Directorate of the Israel Defense Forces (IDF), where I lead three multidisciplinary teams in RF engineering, full-stack development, and DevOps. My role involves guiding R&D efforts in advanced communication systems, algorithmic innovation, and large-scale software infrastructure.
 
