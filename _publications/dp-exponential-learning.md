@@ -2,7 +2,7 @@
 title: "Differentially Private Learning of Exponential Distributions: Adaptive Algorithms and Tight Bounds"
 collection: publications
 category: conferences
-permalink: /publication/2025-11-01-dp-exponential-learning
+permalink: /publication/dp-exponential-learning
 excerpt: "We develop two complementary pure-DP methods for learning Exponential Distributions—a clipped-noisy MLE and a quantile estimator—combine them adaptively to attain near-optimal sample complexity; extend via a logarithmic reduction to Pareto; prove nearly matching lower bounds (packing & group privacy); and show that approximate-DP removes the need for external bounds."
 # date: 2025-11-01
 venue: "(under review)"

@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD Candidate in Computer Engineering at Bar-Ilan University, advised by Dr. Or Sheffet, where my research focuses on Differential Privacy, high-dimensional statistics, and the design of efficient and private algorithms. My work bridges rigorous mathematical theory with practical privacy-preserving data analysis and has been presented at top-tier conferences including NeurIPS 2022, NeurIPS 2025, and COPA 2025.
 
-Alongside my academic research, I serve as Head of Department in the J6 & Cyber Defence Directorate of the Israel Defense Forces (IDF), where I lead three multidisciplinary teams in RF engineering, full-stack development, and DevOps. My role involves guiding R&D efforts in advanced communication systems, algorithmic innovation, and large-scale software infrastructure.
+Alongside my academic research, I served as Head of Department in the J6 & Cyber Defence Directorate of the Israel Defense Forces (IDF), where I led three multidisciplinary teams in RF engineering, full-stack development, and DevOps. My role involved guiding R&D efforts in advanced communication systems, algorithmic innovation, and large-scale software infrastructure.
 
 I am passionate about developing theoretical foundations that enable trustworthy machine learning and privacy-aware computation. My broader interests include probabilistic learning theory, optimization, and applied cryptography.
 
@@ -19,9 +19,9 @@ Beyond research, I’m an avid soccer player, acrobatics enthusiast, and pianist
 
 Research Interests
 ======
-My research lies at the intersection of Differential Privacy, High-Dimensional Statistics, and Machine Learning Theory. I am particularly interested in developing efficient, private, and interpretable algorithms for modern data analysis — bridging the gap between theoretical guarantees and real-world performance.
+My research lies at the intersection of Differential Privacy, Machine Learning Theory, High-Dimensional Statistics, and Geometric Optimization. I am particularly interested in developing efficient, private, and interpretable algorithms for modern data analysis — bridging the gap between theoretical guarantees and real-world performance.
 
-As I approach the completion of my PhD in Computer Engineering (expected Summer 2026), I am seeking post-doctoral opportunities that continue this line of research, focusing on privacy-preserving learning, statistical generalization under uncertainty, and robust algorithmic design.
+As I approach the completion of my PhD in Computer Engineering (expected Fall 2026), I am seeking post-doctoral opportunities that continue this line of research, focusing on privacy-preserving learning, statistical generalization under uncertainty, and robust algorithmic design.
 
 In parallel, I am also open to research-driven internships in the industry, where I can apply my academic expertise to large-scale, applied settings involving privacy, trustworthy AI, and algorithmic optimization.
 

@@ -26,7 +26,7 @@ Education
 Work experience
 ======
 * **Head of Department**, J6 & Cyber Defence Directorate, IDF — *Rishon LeZion, Israel*  
-  * *Aug 2023 – Present*  
+  * *Aug 2023 – Aug 2026*  
   * Leading three R&D teams: two in Full-Stack & DevOps and one in RF Engineering.  
   * Oversee algorithmic research, system architecture, and large-scale communication solutions.  
 
