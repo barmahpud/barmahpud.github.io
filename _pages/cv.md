@@ -14,7 +14,7 @@ Education
 * **Ph.D. in Computer Engineering**, *Bar-Ilan University*, 2022 – Present  
   * Research Area: Differential Privacy, High-Dimensional Statistics, and Machine Learning Theory  
   * Advisor: Prof. Or Sheffet  
-  * Expected Completion: Summer 2026  
+  * Expected Completion: Fall 2026  
 
 * **M.Sc. in Computer Engineering**, *Bar-Ilan University*, 2020 – 2022  
   * Graduated with honors  
